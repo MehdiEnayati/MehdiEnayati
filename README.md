@@ -5,6 +5,9 @@
 - 💼 &nbsp; Working as a Front-End Developer
 - 🎓 &nbsp; Student of IT Subject In University Chamran in Ahvaz
 - ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 🤝  I'm open to collaborating on React based projects
+- 🌍  I'm based in Shoushtar/Khozestan
+- ✉️  You can contact me at enayatim637@gmail.com
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
