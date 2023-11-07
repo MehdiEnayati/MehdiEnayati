@@ -18,3 +18,18 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
+
+<h2>📞 &nbsp; Connct Me </h2>
+
+<p align="center">
+  <a href="https://instagram.com/M_E_developer/">
+    <img src="https://img.shields.io/badge/Instagram-@M_E_developer-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/M_E_developer/">
+    <img src="https://img.shields.io/badge/Telegram-@M_E_developer-blue?style=flat&logo=telegram" />
+  </a>
+</p>
