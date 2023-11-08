@@ -9,7 +9,7 @@
 - 🌍  I'm based in Shoushtar/Khozestan
 - ✉️  You can contact me at enayatim637@gmail.com
 
-<h2>🔧 &nbsp; Tech Stack</h2>
+<h2>🔧 &nbsp; Skills</h2>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
