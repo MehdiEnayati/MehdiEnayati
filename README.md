@@ -26,7 +26,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 
-<h2>📞 &nbsp; Connct Me </h2>
+<h2>📞 &nbsp; Contact Me </h2>
 
 <p align="center">
   <a href="https://instagram.com/M_E_developer/">
